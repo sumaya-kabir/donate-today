@@ -2,4 +2,38 @@
 
 body {
     font-family: 'Lato', sans-serif;
+    margin: 0;
+    background-color: #333;
+}
+
+.first-section {
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 100px 10px;
+}
+
+.hero-div {
+    color: #fff;
+    text-align: center;
+}
+
+.hero-div h1 {
+    margin: 0;
+    font-size: 65px;
+}
+
+.hero-div p {
+    font-size: 20px;
+    line-height: 2rem;
+    word-spacing: 1px;
+}
+
+.btn {
+    background-color: #FF5959;
+    border: none;
+    color: #fff;
+    padding: 15px 20px;
+    font-size: 20px;
+    border-radius: 5px;
 }
