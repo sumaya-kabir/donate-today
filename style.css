@@ -5,6 +5,7 @@ body {
     margin: 0;
 }
 
+/* First Section CSS */
 .first-section {
     background-image: url(images/hero-img.jpg);
     background-repeat: no-repeat;
@@ -38,6 +39,7 @@ body {
     border-radius: 5px;
 }
 
+/* Second Section CSS */
 .second-section {
     text-align: center;
     background-color: antiquewhite;
@@ -91,6 +93,7 @@ body {
     border-bottom: 1px solid gray;
 }
 
+/* Third Section CSS */
 .third-section {
     text-align: center;
     padding: 100px 0 100px 0;
@@ -135,6 +138,7 @@ body {
     text-align: left
 }
 
+/* Volunteer Section CSS */
 .volunteer-section {
     display: flex;
     padding-bottom: 50px;
@@ -160,6 +164,8 @@ span {
     width: 100%;
     padding: 10px;
 }
+
+/* Gallery Section CSS */
 .fourth-section {
     display: flex;
     background-color: antiquewhite;
@@ -182,7 +188,7 @@ span {
     margin: 10px;
 }
 
-
+/* Subscription Section CSS */
 .fifth-section {
     text-align: center;
     padding: 100px;
@@ -214,6 +220,7 @@ span {
 
 }
 
+/* Footer CSS */
 footer {
     background-color: black;
     padding: 50px 0 50px 0;
